@@ -34,3 +34,13 @@
 - Copilot selected the correct colums, correctly summed the required columns, and wrote correct join and group conditions
 - Manual edits required: none
 - Accuracy: High
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+## Cursor – Context Handling Insight
+
+- Cursor reliably reasons over explicitly opened files
+- Repo-wide explanations require manual context exposure
+- Highlighted importance of controlling AI context scope
+
